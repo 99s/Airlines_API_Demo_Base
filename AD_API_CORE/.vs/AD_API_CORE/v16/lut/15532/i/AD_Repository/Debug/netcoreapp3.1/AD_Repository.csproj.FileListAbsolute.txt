@@ -1,0 +1,10 @@
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository\Debug\netcoreapp3.1\AD_Repository.deps.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository\Debug\netcoreapp3.1\AD_Repository.runtimeconfig.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository\Debug\netcoreapp3.1\AD_Repository.runtimeconfig.dev.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository\Debug\netcoreapp3.1\AD_Repository.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository\Debug\netcoreapp3.1\AD_Repository.csprojAssemblyReference.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository\Debug\netcoreapp3.1\AD_Repository.AssemblyInfoInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository\Debug\netcoreapp3.1\AD_Repository.AssemblyInfo.cs
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository\Debug\netcoreapp3.1\AD_Repository.csproj.CopyComplete
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository\Debug\netcoreapp3.1\AD_Repository.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository\Debug\netcoreapp3.1\AD_Repository.genruntimeconfig.cache

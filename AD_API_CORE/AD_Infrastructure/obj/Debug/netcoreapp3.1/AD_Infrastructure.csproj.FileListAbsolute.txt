@@ -1,0 +1,13 @@
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\bin\Debug\netcoreapp3.1\AD_Infrastructure.deps.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\bin\Debug\netcoreapp3.1\AD_Infrastructure.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\bin\Debug\netcoreapp3.1\AD_Infrastructure.pdb
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\bin\Debug\netcoreapp3.1\AD_Entities.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\bin\Debug\netcoreapp3.1\AD_Entities.pdb
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.csproj.AssemblyReference.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.AssemblyInfoInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.AssemblyInfo.cs
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.csproj.CoreCompileInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.csproj.CopyComplete
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Infrastructure\obj\Debug\netcoreapp3.1\AD_Infrastructure.pdb

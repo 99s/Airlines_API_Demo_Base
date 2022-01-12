@@ -1,0 +1,15 @@
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\testhost.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\testhost.exe
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.deps.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.runtimeconfig.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.runtimeconfig.dev.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.csprojAssemblyReference.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.AssemblyInfoInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.AssemblyInfo.cs
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.csproj.CopyComplete
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Repository_XUnit\Debug\netcoreapp3.1\AD_Repository_XUnit.genruntimeconfig.cache

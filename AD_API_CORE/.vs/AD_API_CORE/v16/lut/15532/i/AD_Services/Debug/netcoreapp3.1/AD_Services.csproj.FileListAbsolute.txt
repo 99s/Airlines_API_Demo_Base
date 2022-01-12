@@ -1,0 +1,7 @@
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Services\Debug\netcoreapp3.1\AD_Services.deps.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\b\AD_Services\Debug\netcoreapp3.1\AD_Services.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Services\Debug\netcoreapp3.1\AD_Services.csprojAssemblyReference.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Services\Debug\netcoreapp3.1\AD_Services.AssemblyInfoInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Services\Debug\netcoreapp3.1\AD_Services.AssemblyInfo.cs
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Services\Debug\netcoreapp3.1\AD_Services.csproj.CopyComplete
+D:\CodeZ\Alaska_Demo\AD_API_CORE\.vs\AD_API_CORE\v16\lut\0\i\AD_Services\Debug\netcoreapp3.1\AD_Services.dll

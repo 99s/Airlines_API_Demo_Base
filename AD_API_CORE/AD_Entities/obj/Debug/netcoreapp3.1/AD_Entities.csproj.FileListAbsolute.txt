@@ -1,0 +1,12 @@
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\bin\Debug\netcoreapp3.1\AD_Entities.deps.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\bin\Debug\netcoreapp3.1\AD_Entities.runtimeconfig.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\bin\Debug\netcoreapp3.1\AD_Entities.runtimeconfig.dev.json
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\bin\Debug\netcoreapp3.1\AD_Entities.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\bin\Debug\netcoreapp3.1\AD_Entities.pdb
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.AssemblyInfoInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.AssemblyInfo.cs
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.csproj.CoreCompileInputs.cache
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.dll
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.pdb
+D:\CodeZ\Alaska_Demo\AD_API_CORE\AD_Entities\obj\Debug\netcoreapp3.1\AD_Entities.genruntimeconfig.cache
